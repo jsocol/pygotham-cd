@@ -16,9 +16,31 @@ Tools:
 
 * `django-nose <https://github.com/jbalogh/django-nose>`_
 
+* `QUnit <http://docs.jquery.com/Qunit>`_
+
+* `MockJax <https://github.com/appendto/jquery-mockjax>`_
+
+* `Selenium <http://seleniumhq.org/>`_
+
+* `requests <https://github.com/kennethreitz/requests>`_
+
+* `Jenkins <http://jenkins-ci.org/>`_
+
+* `jstestnet <https://github.com/kumar303/jstestnet>`_
+
+* `Graphite <http://graphite.wikidot.com/documentation>`_
+
+* `statsd <https://github.com/etsy/statsd>`_
+
 * `pystatsd <https://github.com/jsocol/pystatsd>`_
 
+* `Arecibo <https://github.com/andymckay/arecibo>`_
+
+* `django-arecibo <https://github.com/andymckay/django-arecibo>`_
+
 * `Waffle <https://github.com/jsocol/django-waffle>`_
+
+* `Gargoyle <https://github.com/disqus/gargoyle>`_
 
 
 Mozilla Projects
