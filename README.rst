@@ -42,6 +42,7 @@ Tools:
 
 * `Gargoyle <https://github.com/disqus/gargoyle>`_
 
+* `Commander <https://github.com/oremj/commander>`_ (it's like Fabric)
 
 Mozilla Projects
 
