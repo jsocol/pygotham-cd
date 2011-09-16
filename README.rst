@@ -50,3 +50,10 @@ Mozilla Projects
 * `Zamboni (addons.mozilla.org) <https://github.com/jbalogh/zamboni>`_
 
 * `Socorro <https://github.com/mozilla/socorro>`_
+
+
+Blogs
+
+* `Code as Craft: Etsy <http://codeascraft.etsy.com/>`_
+
+* `Coffee on the Keyboard (me) <http://coffeeonthekeyboard.com/>`_
