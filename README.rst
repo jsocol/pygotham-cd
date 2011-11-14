@@ -16,6 +16,8 @@ Tools:
 
 * `django-nose <https://github.com/jbalogh/django-nose>`_
 
+* `test-utils <https://github.com/jbalogh/test-utils>`_
+
 * `QUnit <http://docs.jquery.com/Qunit>`_
 
 * `MockJax <https://github.com/appendto/jquery-mockjax>`_
